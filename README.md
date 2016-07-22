@@ -15,7 +15,7 @@ MIT License
 ## Build Instructions
 
 * Install Xen (tested with version >=4.4)
-* Install libvmi (http://libvmi.com/)
+* Install libvmi (http://libvmi.com/) from https://github.com/libvmi/libvmi/tree/250cff3510a115ecae986228ef1a258180a68670 : Make sure xen-events are enabled
 * Install simutrace (http://simutrace.org/)
 * Install capstone engine (http://www.capstone-engine.org/)
 * Build Xenpwn:
