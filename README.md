@@ -19,10 +19,11 @@ MIT License
 * Install simutrace (http://simutrace.org/)
 * Install capstone engine (http://www.capstone-engine.org/)
 * Build Xenpwn:
- 
-    mkdir build
-    cmake ../
-    make
+```
+mkdir build
+cd build; cmake ../;
+make
+```
 
 
 ## Extending Xenpwn
